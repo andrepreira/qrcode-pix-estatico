@@ -5,7 +5,7 @@ namespace App\Pix;
 class Payload{
     /**
      * IDs do Payload do Pix
-     * @var strisng
+     * @var string
     */
     const ID_PAYLOAD_FORMAT_INDICATOR = '00';
     const ID_MERCHANT_ACCOUNT_INFORMATION = '26';
